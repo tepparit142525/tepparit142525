@@ -2,7 +2,7 @@
 เบี้ยยังชีพผู้สูงอายุ
 <!--
 **tepparit142525/tepparit142525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+เบี้ยยังชีพความพิการ
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
